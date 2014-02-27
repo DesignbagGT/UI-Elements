@@ -2,9 +2,9 @@ UI-Elements
 ===========
 
 
-Version: 01
+Version: 02
 
-10 Jan 2014
+27 Feb 2014
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -28,6 +28,22 @@ Fira Sans (Mozilla)
  + http://mozilla.github.io/Fira/
  + https://github.com/mozilla/Fira
 
+
+
+
+Change history:
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Version 01: 10 Jan 2014
+Published initial version
+
+
+Version 02: 27 Feb 2014
+
+Added the following UI items:-
+- Progress bar
+- Tabbed content-01
+- Tabbed content-02
 
 
 
