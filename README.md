@@ -2,9 +2,9 @@ UI-Elements
 ===========
 
 
-Version: 02
+Version: 03
 
-27 Feb 2014
+28 Jul 2014
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -28,6 +28,8 @@ Fira Sans (Mozilla)
  + http://mozilla.github.io/Fira/
  + https://github.com/mozilla/Fira
 
+Entypo
+ + http://www.entypo.com
 
 
 
@@ -45,6 +47,13 @@ Added the following UI items:-
 - Tabbed content-01
 - Tabbed content-02
 
+
+Version 03: 28 Jul 2014
+
+Added the following UI items:-
+- Dashboard report
+- Dashboard_03
+- Increment controls
 
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
