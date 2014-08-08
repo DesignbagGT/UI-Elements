@@ -2,9 +2,9 @@ UI-Elements
 ===========
 
 
-Version: 03
+Version: 04
 
-28 Jul 2014
+08 Aug 2014
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -51,9 +51,16 @@ Added the following UI items:-
 Version 03: 28 Jul 2014
 
 Added the following UI items:-
-- Dashboard report
+- Audio player
 - Dashboard_03
 - Increment controls
+
+
+Version 04: 08 Aug 2014
+
+Added the following UI items:-
+- Dashboard report
+- Popovers
 
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
