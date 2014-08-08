@@ -51,7 +51,7 @@ Added the following UI items:-
 Version 03: 28 Jul 2014
 
 Added the following UI items:-
-- Audio player
+- Dashboard report
 - Dashboard_03
 - Increment controls
 
@@ -59,7 +59,7 @@ Added the following UI items:-
 Version 04: 08 Aug 2014
 
 Added the following UI items:-
-- Dashboard report
+- Audio player
 - Popovers
 
 
